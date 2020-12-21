@@ -5,7 +5,6 @@
 ### Authors:                                    ###
 ###     - Matheus Branco Borella  (11218897)    ###
 ###     - Natan Bernardi Cerdeira (11218984)    ###
-###     - Amanda de Moura Peres   (10734522)    ###
 ### Semester: Second semester of 2020           ###
 ###################################################
 
